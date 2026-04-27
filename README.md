@@ -1,4 +1,4 @@
-# PhDunaffiliated
+# PhD Unaffiliated
 
 An independent, unaffiliated PhD-level research journey in AI — self-directed across three phases: qualification, preliminary exam, and defense.
 
