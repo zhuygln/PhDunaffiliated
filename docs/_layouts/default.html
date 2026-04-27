@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.url == "/" %}{{ site.title }}{% else %}{{ page.title }} — {{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+</head>
+<body>
+  <div class="site-container">
+    <header>
+      <nav>
+        <a class="site-name" href="{{ site.baseurl }}/">{{ site.title }}</a>
+        <a href="{{ site.baseurl }}/progress/"{% if page.url contains "/progress" %} class="active"{% endif %}>Progress</a>
+        <a href="{{ site.baseurl }}/writing/"{% if page.url contains "/writing" %} class="active"{% endif %}>Writing</a>
+        <a href="{{ site.baseurl }}/about/"{% if page.url == "/about/" %} class="active"{% endif %}>About</a>
+      </nav>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+    <footer>
+      <span>{{ site.title }}</span>
+    </footer>
+  </div>
+</body>
+</html>

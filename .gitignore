@@ -1,3 +1,9 @@
+## Jekyll build artifacts
+docs/_site/
+docs/.jekyll-cache/
+docs/.jekyll-metadata
+docs/Gemfile.lock
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof

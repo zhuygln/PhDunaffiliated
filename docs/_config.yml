@@ -1,0 +1,29 @@
+title: Yonglin Zhu
+description: Independent AI research journey at the PhD level
+baseurl: "/PhDunaffiliated"
+url: "https://zhuygln.github.io"
+author: Yonglin Zhu
+
+theme: null
+
+collections:
+  progress:
+    output: true
+    permalink: /progress/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: progress
+    values:
+      layout: log
+
+permalink: /writing/:year/:month/:day/:title/
+markdown: kramdown
+kramdown:
+  input: GFM
