@@ -16,6 +16,4 @@ I'm currently in the qualification phase — building mathematical and conceptua
 - Large language model post-training alignment
 - Physics of AI
 
-**Contact**
-
 If you work in either area and are open to a conversation, I'd be glad to hear from you.
