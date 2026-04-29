@@ -6,9 +6,8 @@ This is the open-ended first phase. The goal is to build enough competence and c
 
 ## Current Focus Areas
 
-*(List candidate AI subfields being explored)*
-
-- TBD
+- Large language model post-training alignment
+- Physics of AI
 
 ## Goals
 
