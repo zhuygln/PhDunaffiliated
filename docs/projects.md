@@ -14,7 +14,7 @@ Research projects from the qualification phase. Code lives in separate repositor
     <span class="project-title">dice-engine</span>
     <span class="project-status status-wip">In Progress</span>
   </div>
-  <p>Qualification track paper #1 — to be submitted to <strong>DL4C</strong> (Deep Learning for Code).</p>
+  <p>Qualification track paper #1 — to be submitted to <strong>DL4C</strong> (Deep Learning for Code, ICML Workshop).</p>
   <div class="project-meta">
     <span>Role: First author</span>
     <span>·</span>
