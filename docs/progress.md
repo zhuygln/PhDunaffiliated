@@ -5,6 +5,8 @@ title: Progress
 
 # Progress Log
 
+<div id="contribution-heatmap" class="heatmap-container"></div>
+
 {% assign entries = site.progress | sort: "date" | reverse %}
 {% if entries.size > 0 %}
 <div class="log-list">
@@ -18,3 +20,8 @@ title: Progress
 {% else %}
 <p class="empty-state">Nothing here yet.</p>
 {% endif %}
+
+<script>
+window._progressDates = [{% for entry in site.progress %}"{{ entry.date | date: '%Y-%m-%d' }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+</script>
+<script src="/assets/js/heatmap.js"></script>

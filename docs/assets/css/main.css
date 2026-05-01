@@ -188,6 +188,12 @@ li {
   margin-top: 2.5rem;
 }
 
+/* Heatmap */
+.heatmap-container {
+  overflow-x: auto;
+  margin: 1.5rem 0 2.5rem;
+}
+
 /* Empty state */
 .empty-state {
   color: var(--muted);
