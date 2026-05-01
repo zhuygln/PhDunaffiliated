@@ -4,7 +4,7 @@ Tracks every paper being led or co-authored. Link code repos directly in the tab
 
 | Title | Venue | Status | Deadline | Co-authors | Code Repo | Notes |
 |-------|-------|--------|----------|------------|-----------|-------|
-| TBD | DL4C @ ICML | Drafting | — | — | [dice-engine](https://github.com/zhuygln/dice-engine) | Qualification track paper #1; first author |
+| DICE Engine: A Convergence-Controlled System for LLM-Assisted Data Science Pipeline Migration | DL4C @ ICML | Drafting | — | — | [dice-engine](https://github.com/zhuygln/dice-engine) | Qualification track paper #1; first author |
 
 **Status values:** Idea / Drafting / Submitted / Under Review / Accepted / Published / Rejected
 
