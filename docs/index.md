@@ -1,10 +1,13 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
-# Yonglin Zhu
+I have a PhD in physics and work in AI — spanning generative AI for code translation, time series forecasting, automated machine learning, and synthetic data.
 
-PhD in physics, now working in AI. Here I document an independent research journey at the PhD level — unaffiliated, self-directed, working toward original contributions in a new field.
+Here I document an independent research journey at the PhD level: no institution, no advisor. The goal is to produce original contributions in a new area of AI and have the work reviewed by recognized researchers in the field. The journey runs through three phases — qualification, preliminary exam, and final defense.
 
-Currently in the qualification phase: building foundations, surveying candidate research areas, and making connections. The journey runs through three phases — qualification, preliminary exam, and defense — with independent researchers reviewing the final work.
+**Currently exploring**
+
+- Large language model post-training alignment
+- Physics of AI
