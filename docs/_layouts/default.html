@@ -12,6 +12,7 @@
     <header>
       <nav>
         <a class="site-name" href="{{ site.baseurl }}/">{{ site.title }}</a>
+        <a href="{{ site.baseurl }}/projects/"{% if page.url contains "/projects" %} class="active"{% endif %}>Projects</a>
         <a href="{{ site.baseurl }}/progress/"{% if page.url contains "/progress" %} class="active"{% endif %}>Progress</a>
         <a href="{{ site.baseurl }}/writing/"{% if page.url contains "/writing" %} class="active"{% endif %}>Writing</a>
         <a href="{{ site.baseurl }}/about/"{% if page.url == "/about/" %} class="active"{% endif %}>About</a>
