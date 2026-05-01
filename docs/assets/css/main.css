@@ -99,6 +99,22 @@ li {
   margin-bottom: 0.3rem;
 }
 
+/* Tags & reading time */
+.tag {
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 0.1rem 0.5rem;
+  border-radius: 999px;
+  background: #f0f0f0;
+  color: var(--muted);
+  margin-right: 0.25rem;
+}
+
+.reading-time {
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
 /* Post list — Writing page */
 .post-list {
   list-style: none;
@@ -107,16 +123,28 @@ li {
 }
 
 .post-list li {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  padding: 0.65rem 0;
+  padding: 0.75rem 0;
   border-bottom: 1px solid var(--border);
-  gap: 1rem;
 }
 
 .post-list li:first-child {
   border-top: 1px solid var(--border);
+}
+
+.post-list-main {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  margin-bottom: 0.25rem;
+}
+
+.post-list-sub {
+  font-size: 0.85rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  flex-wrap: wrap;
 }
 
 .post-list a {
@@ -171,11 +199,23 @@ li {
   margin-bottom: 2rem;
 }
 
-.post-date {
-  display: block;
+.post-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
   font-size: 0.875rem;
   color: var(--muted);
   margin-top: 0.4rem;
+  margin-bottom: 0.6rem;
+}
+
+.post-date {
+  font-size: 0.875rem;
+  color: var(--muted);
+}
+
+.post-tags {
+  margin-top: 0.5rem;
 }
 
 .post-content p,
@@ -244,6 +284,75 @@ li {
   color: var(--accent);
 }
 
+/* Publications */
+.publication {
+  padding: 1.25rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.publication:first-of-type {
+  border-top: 1px solid var(--border);
+}
+
+.pub-title {
+  font-weight: 600;
+  margin-bottom: 0.2rem;
+  line-height: 1.4;
+}
+
+.pub-authors {
+  font-size: 0.9rem;
+  color: var(--muted);
+  margin-bottom: 0.15rem;
+}
+
+.pub-venue {
+  font-size: 0.9rem;
+  color: var(--muted);
+  margin-bottom: 0.5rem;
+}
+
+.pub-description {
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+}
+
+.pub-links {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+  flex-wrap: wrap;
+}
+
+.pub-links a {
+  color: var(--accent);
+}
+
+.pub-status {
+  font-size: 0.75rem;
+  padding: 0.15rem 0.5rem;
+  border-radius: 999px;
+  background: #fff3cd;
+  color: #856404;
+  font-weight: 500;
+}
+
+/* Homepage sections */
+.home-section {
+  margin-top: 3rem;
+}
+
+.home-section h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.section-more {
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+}
+
 /* Heatmap */
 .heatmap-container {
   overflow-x: auto;
@@ -263,6 +372,27 @@ footer {
   padding-top: 1.25rem;
   border-top: 1px solid var(--border);
   font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.footer-social {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  margin-bottom: 0.35rem;
+}
+
+.footer-social a {
+  color: var(--muted);
+}
+
+.footer-social a:hover {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.footer-copy {
+  font-size: 0.8rem;
   color: var(--muted);
 }
 
