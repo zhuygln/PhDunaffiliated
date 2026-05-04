@@ -27,6 +27,7 @@ onenote.md          # Quick-capture inbox — unclassified notes pending triage
 ## Conventions
 
 - **Linking code repos:** Embed repo URLs directly in project notes. Format: `Code: [repo-name](https://github.com/...)`.
+- **Embedding code repos as submodules:** When a code repo is materially part of a phase, it may be added as a Git submodule under that phase's directory (e.g., `preliminary/dice-engine/`). Note the submodule path and remote in the relevant phase README so it's discoverable from the prose.
 - **Paper notes:** One file per paper in `qualification/papers/`, named `YYYY-AuthorKeyword.md`. Include: citation, problem, method, key results, personal take, connections to other work.
 - **Area surveys:** Each `qualification/areas/<area-name>/overview.md` covers: what the area is, landmark papers, open problems, major research groups.
 - **onenote.md:** No required format — dump first, organize later.
