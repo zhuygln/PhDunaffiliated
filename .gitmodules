@@ -1,0 +1,3 @@
+[submodule "preliminary/dice-engine"]
+	path = preliminary/dice-engine
+	url = git@github.com:zhuygln/dice-engine.git
