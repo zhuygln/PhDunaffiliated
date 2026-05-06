@@ -8,4 +8,4 @@ This phase begins after a research direction has been chosen during qualificatio
 
 ## Attached code
 
-- `preliminary/dice-engine/` — Git submodule. Code: [dice-engine](https://github.com/zhuygln/dice-engine).
+- `dice-engine` — local working tree under `preliminary/dice-engine/` (gitignored; not yet published). Will be re-attached as a Git submodule once the public repo is up.

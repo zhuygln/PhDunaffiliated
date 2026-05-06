@@ -4,6 +4,9 @@ docs/.jekyll-cache/
 docs/.jekyll-metadata
 docs/Gemfile.lock
 
+## Local-only embedded code (not published to GitHub yet)
+preliminary/dice-engine/
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
