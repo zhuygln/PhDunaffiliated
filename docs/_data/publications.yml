@@ -1,7 +1,7 @@
 - title: "DICE Engine: A Convergence-Controlled System for LLM-Assisted Data Science Pipeline Migration"
   authors: "Yonglin Zhu et al."
-  venue: "DL4C @ ICML"
+  venue: "Target: DL4C @ ICML"
   year: 2026
-  status: "submitted"
+  status: "in_preparation"
   code: "https://github.com/zhuygln/dice-engine"
   description: "A convergence-controlled system for LLM-assisted data science pipeline migration."

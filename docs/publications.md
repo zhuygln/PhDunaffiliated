@@ -15,6 +15,7 @@ title: Publications
     {% if paper.pdf %}<a href="{{ paper.pdf }}" target="_blank">PDF</a>{% endif %}
     {% if paper.code %}<a href="{{ paper.code }}" target="_blank">Code</a>{% endif %}
     {% if paper.status == "submitted" %}<span class="pub-status">Under review</span>{% endif %}
+    {% if paper.status == "in_preparation" %}<span class="pub-status">In preparation</span>{% endif %}
   </div>
 </div>
 {% else %}
