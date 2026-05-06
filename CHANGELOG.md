@@ -1,9 +1,16 @@
 # Changelog
 
+## 2026-05-06
+- Note anonymous.4open.science for double-blind code sharing in `publications/tracker.md`
+
 ## 2026-05-04
 - Show "Ph.D. Unaffiliated" as nav title on site
 - Fix heatmap date rendering (DST/UTC timezone issues)
 - Add Google Scholar link (correct profile ID)
+- Add `CHANGELOG.md` to track repo-level changes
+- Embed `dice-engine` as a Git submodule under `preliminary/`; link from `preliminary/README.md`
+- Document submodule-embedding convention in `CLAUDE.md`
+- Queue 4 RL / code-LLM papers in `toRead.md`
 
 ## 2026-05-01
 - Launch site at [unphd.yonglinzhu.com](https://unphd.yonglinzhu.com)
