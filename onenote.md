@@ -10,3 +10,12 @@ Read "Training language models to follow instructions with human feedback" (Ouya
 
 → TODO: NotebookLM summary in progress — how RL is being used to improve LLM encoding tasks. Update this note when ready, then decide where to file both.
 
+---
+
+**2026-05-18**
+
+TODO:
+- Update CV with ICMLW 2026 paper.
+- Apply to Google role: https://www.google.com/about/careers/applications/jobs/results/82618682349363910
+- Submit application form: https://docs.google.com/forms/d/e/1FAIpQLScxngeVr4k6KKItc5ZLLEIbh_ya3thTkqDB9VIp6-nsdSViaQ/viewform
+
