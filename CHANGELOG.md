@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-05-13
+- Add progress entry: pushing on DICE Engine draft for DL4C @ ICML 2026 (deadline 2026-05-14)
+- Record DL4C @ ICML 2026 deadline (2026-05-14) in `publications/tracker.md`
+
 ## 2026-05-06
 - Note anonymous.4open.science for double-blind code sharing in `publications/tracker.md`
 
