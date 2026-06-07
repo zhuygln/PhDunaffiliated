@@ -26,8 +26,8 @@
 - Add contribution heatmap to Progress page
 
 ## 2026-04-30
-- Add DICE Engine as first qualification-track paper (target: DL4C @ ICML)
-- Define qualification output requirements: 3 papers (first-author, collaborator-led, distinct topics)
+- Add DICE Engine as first qualifier-track paper (target: DL4C @ ICML)
+- Define qualifier output requirements: 3 papers (first-author, collaborator-led, distinct topics)
 
 ## 2026-04-29
 - Identify candidate research areas: LLM post-training alignment, Physics of AI
@@ -37,7 +37,7 @@
 - Add `references.bib` as central bibliography for LaTeX files
 
 ## 2026-04-27
-- Initialize repository structure: qualification / preliminary / defense phases
+- Initialize repository structure: qualifier / preliminary / defense phases
 - Set up network tracker, publications pipeline, roadmap, onenote inbox
 - Add `toRead.md` reading queue
 - Rename repo from `openphd` to `PhDunaffiliated`

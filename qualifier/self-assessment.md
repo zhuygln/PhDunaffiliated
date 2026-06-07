@@ -1,6 +1,6 @@
 # Self-Assessment
 
-Tracks competency growth, skill gaps, and area selection reasoning during the qualification phase. Update periodically.
+Tracks competency growth, skill gaps, and area selection reasoning during the qualifier phase. Update periodically.
 
 ---
 

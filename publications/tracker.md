@@ -4,11 +4,11 @@ Tracks every paper being led or co-authored. Link code repos directly in the tab
 
 | Title | Venue | Status | Deadline | Co-authors | Code Repo | Notes |
 |-------|-------|--------|----------|------------|-----------|-------|
-| DICE Engine: A Convergence-Controlled System for LLM-Assisted Data Science Pipeline Migration | DL4C @ ICML 2026 | Drafting | 2026-05-14 | — | [dice-engine](https://github.com/zhuygln/dice-engine) | Qualification track paper #1; first author |
+| DICE Engine: A Convergence-Controlled System for LLM-Assisted Data Science Pipeline Migration | DL4C @ ICML 2026 | Drafting | 2026-05-14 | — | [dice-engine](https://github.com/zhuygln/dice-engine) | Qualifier track paper #1; first author |
 
 **Status values:** Idea / Drafting / Submitted / Under Review / Accepted / Published / Rejected
 
-## Qualification Track Requirements
+## Qualifier Track Requirements
 
 - [ ] Paper 1 — first author · dice-engine (WIP)
 - [ ] Paper 2 — new collaborator lead · distinct topic

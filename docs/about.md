@@ -9,7 +9,7 @@ I have a PhD in physics and work in AI — spanning generative AI for code trans
 
 This site documents an attempt at something unusual: pursuing independent, unaffiliated research at the PhD level, with no institution and no advisor. The goal is to produce original work in a new area of AI and have it reviewed by recognized researchers in the field.
 
-I'm currently in the qualification phase — building mathematical and conceptual foundations, surveying candidate research areas, making early research attempts, and beginning to build connections in the community.
+I'm currently in the qualifier phase — building mathematical and conceptual foundations, surveying candidate research areas, making early research attempts, and beginning to build connections in the community.
 
 **Areas under exploration**
 

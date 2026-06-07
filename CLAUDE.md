@@ -9,7 +9,7 @@ Writing-only knowledge base for an independent, unaffiliated PhD journey in AI. 
 ## Directory Structure
 
 ```
-qualification/      # Phase 1 (ACTIVE): learning, paper notes, area surveys, exploratory projects
+qualifier/          # Phase 1 (ACTIVE): learning, paper notes, area surveys, exploratory projects
   learning/         # Fundamentals: textbooks, courses, concept notes
   papers/           # One .md per paper, named YYYY-AuthorKeyword.md
   areas/            # One subfolder per candidate research area
@@ -28,7 +28,7 @@ onenote.md          # Quick-capture inbox — unclassified notes pending triage
 
 - **Linking code repos:** Embed repo URLs directly in project notes. Format: `Code: [repo-name](https://github.com/...)`.
 - **Embedding code repos as submodules:** When a code repo is materially part of a phase, it may be added as a Git submodule under that phase's directory (e.g., `preliminary/dice-engine/`). Note the submodule path and remote in the relevant phase README so it's discoverable from the prose.
-- **Paper notes:** One file per paper in `qualification/papers/`, named `YYYY-AuthorKeyword.md`. Include: citation, problem, method, key results, personal take, connections to other work.
-- **Area surveys:** Each `qualification/areas/<area-name>/overview.md` covers: what the area is, landmark papers, open problems, major research groups.
+- **Paper notes:** One file per paper in `qualifier/papers/`, named `YYYY-AuthorKeyword.md`. Include: citation, problem, method, key results, personal take, connections to other work.
+- **Area surveys:** Each `qualifier/areas/<area-name>/overview.md` covers: what the area is, landmark papers, open problems, major research groups.
 - **onenote.md:** No required format — dump first, organize later.
 - **Progress tracking:** GitHub Issues/Projects for granular tasks; `roadmap.md` for phase gates and major decisions.

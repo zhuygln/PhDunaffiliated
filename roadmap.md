@@ -4,20 +4,20 @@
 
 | Phase | Status | Target | Description |
 |-------|--------|--------|-------------|
-| Qualification | **Active** | TBD | Fundamentals, area exploration, early projects, networking |
+| Qualifier | **Active** | TBD | Fundamentals, area exploration, early projects, networking |
 | Preliminary Exam | Future | TBD | Research proposal, deep literature review, defined questions |
 | Defense | Future | TBD | Execute research, produce outputs, independent review |
 
 ---
 
-## Qualification Phase Gates
+## Qualifier Phase Gates
 
-To exit qualification and enter the preliminary phase, I need to:
+To exit qualifier and enter the preliminary phase, I need to:
 
 - [ ] Survey at least 2–3 candidate research areas with documented overviews
 - [ ] Complete foundational learning in relevant AI subfields
 - [ ] Read and annotate 20+ papers across candidate areas
-- [ ] Make at least one exploratory research attempt (documented in `qualification/projects/`)
+- [ ] Make at least one exploratory research attempt (documented in `qualifier/projects/`)
 - [ ] Build initial network (10+ tracked researchers, some contact made)
 - [ ] Choose a research direction — record decision in Decision Log below
 

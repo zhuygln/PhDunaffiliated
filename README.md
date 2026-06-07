@@ -1,8 +1,8 @@
 # PhD Unaffiliated
 
-An independent, unaffiliated PhD-level research journey in AI — self-directed across three phases: qualification, preliminary exam, and defense.
+An independent, unaffiliated PhD-level research journey in AI — self-directed across three phases: qualifier, preliminary exam, and defense.
 
-**Current Phase: Qualification** — exploring research areas, building fundamentals, making connections, and making early research attempts before committing to a direction.
+**Current Phase: Qualifier** — exploring research areas, building fundamentals, making connections, and making early research attempts before committing to a direction.
 
 ---
 
@@ -11,7 +11,7 @@ An independent, unaffiliated PhD-level research journey in AI — self-directed 
 This repo is writing-only: documentation, planning, research notes, and formal outputs. All code lives in separate repositories and is linked from here.
 
 ```
-qualification/      # Active — learning, paper notes, area exploration, early projects
+qualifier/          # Active — learning, paper notes, area exploration, early projects
 preliminary/        # Future placeholder
 defense/            # Future placeholder
 network/            # Ongoing — researcher contacts, collaborations, outreach

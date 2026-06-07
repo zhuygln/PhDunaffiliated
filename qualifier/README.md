@@ -1,4 +1,4 @@
-# Qualification Phase
+# Qualifier Phase
 
 **Status: Active**
 
